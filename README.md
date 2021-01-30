@@ -1,2 +1,0 @@
-# projects
-programming project examples
